@@ -85,7 +85,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Atividade:</h3>
+<h3 align="left">Activity:</h3>
 
 ![enzodevs's Graph](https://github-readme-activity-graph.vercel.app/graph?username=enzodevs&custom_title=Atividade%20do%20GitHub%20de%20Enzo&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
