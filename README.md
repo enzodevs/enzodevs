@@ -1,4 +1,4 @@
-![logo](enzo-banner.png)
+[comment]: ![logo](enzo-banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Enzo Lopes</h1>
