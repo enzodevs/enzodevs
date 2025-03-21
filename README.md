@@ -45,20 +45,20 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,supabase" />
+    <img src="https://skillicons.dev/icons?i=java,spring,supabase" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,ts" />
+    <img src="https://skillicons.dev/icons?i=vite,react,ts" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
   </a>
 </p>
