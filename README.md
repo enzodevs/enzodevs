@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enzo, a Brazillian Developer</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="center"> I boost business with technological solutions 💻</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=enzodevs&label=Profile%20Views&color=0e75b6&style=flat" alt="Enzo Lopes" /> 
